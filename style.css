@@ -104,12 +104,16 @@ header p {
     background-color: var(--color-terciario);
     color: var(--color-principal);
     text-align: center;
-    
 }
+.lovestory h2 {
+    font-size: 58px;
+}
+
 .lovestory-text {
     margin: auto;
     padding: 60px 40px;
     max-width: 830px;
+    font-size: 20px;
 }
 
 .info {
@@ -151,11 +155,9 @@ header p {
    
 }
 
-
 .info-cards h2 {
     font-size: 40px;
     color: var(--color-terciario);
-
 }
 
 
